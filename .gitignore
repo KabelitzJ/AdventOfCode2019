@@ -1,0 +1,7 @@
+# C++ objext files or executables
+*.exe
+*.o
+*.obj
+
+# text filed
+*.txt
